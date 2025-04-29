@@ -1,0 +1,39 @@
+
+## 7.3 `INSTRUCTIONS.txt`
+
+```text
+== Mystic Realms v3 ==
+
+Step 1: Create virtual environment
+> python -m venv venv
+
+Step 2: Activate it
+> venv\Scripts\activate  (on Windows)
+> source venv/bin/activate (on Linux/Mac)
+
+Step 3: Install dependencies
+> pip install -r requirements.txt
+
+Step 4: Run Server
+>python -m server.server
+
+Step 5: Run Client (in a new terminal)
+> python -m client/curses_client
+
+Enjoy the adventure!
+
+--
+Basic Commands:
+- look
+- go <direction>
+- pick <item>
+- drop <item>
+- say <message>
+- inventory
+- attack <npc>
+- duel <player>
+- search
+- buy <item>
+- sell <item>
+- help
+- quit
