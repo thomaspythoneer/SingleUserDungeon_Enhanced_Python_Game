@@ -4,7 +4,7 @@ A text-based fantasy adventure game built with Streamlit.
 
 ## Features
 
-- Cinematic intro with starfield and portal effects
+- Retro 80s animation
 - Character creation with multiple classes
 - Rich game world with multiple locations
 - Combat system with special abilities
